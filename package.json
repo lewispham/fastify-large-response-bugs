@@ -1,0 +1,14 @@
+{
+  "name": "fastify-large-response-bugs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.22.0"
+  }
+}
